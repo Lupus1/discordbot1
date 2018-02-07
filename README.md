@@ -1,2 +1,2 @@
 # discordbot1
-just testing
+Discrord bot (private)
